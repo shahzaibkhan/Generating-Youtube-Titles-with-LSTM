@@ -1,3 +1,5 @@
-# Generating-Youtube-Titles-with-LSTM
+# Generating Youtube Titles with LSTM
 
-code and data included
+Refernece:
+https://levelup.gitconnected.com/generating-youtube-titles-using-lstms-19baa1948088
+
